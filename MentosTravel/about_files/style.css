@@ -1,0 +1,43 @@
+ .panel-footer{
+    text-align:center;
+	background-color:#faf93b;
+	color:#0f1f3a;
+}
+.navbar{
+	border-radius:0px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	background-color:#faf93b;
+	color:#0f1f3a;
+}
+.col-md-3{
+	padding-right:0px;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(royal-serif.ttf);
+}
+h1{
+	color:#0f1f3a;
+	font-family: myFirstFont;
+}
+*,.list-group-item-heading{
+	font-family:myFirstFont;
+}
+h5{
+	padding-left:20px;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+.list-group-item-heading{
+	padding-left:20px;
+}
+.list-group-item-text{
+	padding-left:30px;
+}
+.list-group-item{
+	padding-left:20px;
+}
+h3{
+	font-family:myFirstFont;
+}
